@@ -1,0 +1,1 @@
+add_library(MinesweeperHackDll SHARED dllmain.cpp)
