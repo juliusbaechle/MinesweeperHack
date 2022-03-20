@@ -5,7 +5,7 @@ Cracking Minesweeper by Dll-Injection
 -------------------------------
  OllyDbg 2.01    Disassembler & Debugger    https://www.ollydbg.de/version2.html
  Ghidra 10.1.2   Dissasembler & Decompiler to C-Code for reverse engineering
- AlisInjector    https://github.com/Zuccss/Dll-INJECTOR
+ AlisInjector    https://github.com/Zuccss/Dll-INJECTOR 
 
  Minesweeper
 -------------------------------
