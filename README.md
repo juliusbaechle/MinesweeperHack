@@ -12,7 +12,7 @@ void endGame(int a_won) {
   pMySecretFunction(a_won);
 }
 ```
-I admit it's the most fragile code I've ever written. It works though    ; )
+I admit it's the most fragile code I've ever written. It works though 😅
 
  Tools
 -------------------------------
