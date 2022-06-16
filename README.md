@@ -7,9 +7,9 @@ Minesweeper until I found the address of the `void endGame(int a_won)` function.
 easy to write a .dll that calls this function after its injection:
 ```C++
 void endGame(int a_won) {
-  typedef void (*__stdcall pFunctionAddress)(int);
-  pFunctionAddress pMySecretFunction = (pFunctionAddress)(0x0100347c);
-  pMySecretFunction(a_won);
+  typedef void (*__stdcall EndGameFunction)(int);
+  EndGameFunction endGameFunction = (EndGameFunction)(0x0100347c);
+  endGameFunction(a_won);
 }
 ```
 I admit it's the most fragile code I've ever written. It works though 😅
