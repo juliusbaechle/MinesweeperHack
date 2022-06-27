@@ -17,7 +17,7 @@ I admit it's the most fragile code I've ever written. It works though 😅
  Tools
 -------------------------------
  OllyDbg 2.01    Disassembler & Debugger    https://www.ollydbg.de/version2.html  
- Ghidra 10.1.2   Dissasembler & Decompiler to C-Code
+ Ghidra 10.1.2   Dissasembler & Decompiler to C-Code  
  AlisInjector    https://github.com/Zuccss/Dll-INJECTOR 
 
  Minesweeper-Download
